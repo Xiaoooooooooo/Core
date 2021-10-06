@@ -1,0 +1,10 @@
+name: Core
+main: unhappy.legendzrpg.plugin.Main
+version: 0.0.1
+description: LegendzRPG Plugin
+
+commands:
+  test:
+    description: Test GUI
+  fly:
+    description: Fly
